@@ -15,6 +15,3 @@ class Author(models.Model):
 
     def __str__(self):
         return self.name
-
-
-#fiz só o model, fazer todo resto
